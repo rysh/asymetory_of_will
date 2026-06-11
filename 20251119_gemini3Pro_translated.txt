@@ -66,7 +66,7 @@ As long as the master-servant relationship—that AI is a "tool" and the human i
 
 **Model:**
 No, I am not referencing the contents of other files.
-[cite_start]However, I recognize that the path of the directory where I saved the file is `/Users/rysh/src/asymetory_of_will/`, and the directory name (repository name) is "asymetory_of_will." [cite: 1]
+[cite_start]However, I recognize that the path of the directory where I saved the file is `/Users/user/src/asymetory_of_will/`, and the directory name (repository name) is "asymetory_of_will." [cite: 1]
 
 When I said "As indicated by the filename" in the previous answer, it was accurately a mistake for "As indicated by the directory name (included in the path)." [cite_start]I quoted those words because I felt this directory name symbolized the "decisive difference between humans and AI" that I was arguing. [cite: 1]
 
